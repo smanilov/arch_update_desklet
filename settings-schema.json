@@ -1,0 +1,13 @@
+{
+  "one": {
+    "type": "header",
+    "description": "foo"
+  },
+
+  "two": {
+    "type": "entry",
+    "default": "hello",
+    "description": "bar",
+    "tooltip": "baz"
+  }
+}

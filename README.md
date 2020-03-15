@@ -27,3 +27,10 @@ The desklet simplifies the process by turning it into a dialog system:
    since last update. Continue with update? [y/n]
 3. (Performs update and records data.): These 2 packages might require a restart: ... Restart system? [y/n]
 4. System up to date.
+
+## Credits
+
+Kudos to:
+
+1. Softhints@YT where I first learned about Desklets: <https://www.youtube.com/watch?v=-FPY_e0BdJs>
+2. oak-wood.co.uk for the Weather Desklet (bbcwx) as I used the code for inspiration

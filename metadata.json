@@ -1,0 +1,9 @@
+{
+    "description": "Semi-automating Arch updates",
+    "last-edited": 1584283361,
+    "name": "Arch Update",
+    "uuid": "arch_update@smanilov",
+    "max-instances": "1",
+    "version": "0.1",
+    "prevent-decorations": true
+}
