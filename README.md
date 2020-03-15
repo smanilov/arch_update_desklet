@@ -33,4 +33,5 @@ The desklet simplifies the process by turning it into a dialog system:
 Kudos to:
 
 1. Softhints@YT where I first learned about Desklets: <https://www.youtube.com/watch?v=-FPY_e0BdJs>
-2. oak-wood.co.uk for the Weather Desklet (bbcwx) as I used the code for inspiration
+2. bbcwx@oak-wood.co.uk as I used the code for inspiration
+3. diskspace@schorschii as I used the code for inspiration
